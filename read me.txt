@@ -5,3 +5,7 @@ add git test v3
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+
+add git test v4
+add git test v5
+add git test v6
